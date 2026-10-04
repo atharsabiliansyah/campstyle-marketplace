@@ -39,7 +39,7 @@ export const PromoSplitBanners: React.FC<PromoSplitBannersProps> = ({
         {/* Promo Gear Mockup */}
         <div className="relative w-40 h-40 shrink-0 flex items-center justify-center">
           <img
-            src="public/amba.png"
+            src="/amba.png"
             alt="Nesting Cookset"
             className="w-36 h-36 object-cover rounded-2xl shadow-md border-2 border-white group-hover:scale-105 transition-transform"
           />
