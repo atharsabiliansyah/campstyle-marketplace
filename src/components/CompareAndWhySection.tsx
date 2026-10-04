@@ -36,12 +36,12 @@ export const CompareAndWhySection: React.FC<CompareAndWhySectionProps> = ({
         {/* Tents Mockup Imagery */}
         <div className="relative w-44 h-36 shrink-0 flex items-center justify-center">
           <img
-            src="public/tenda1.png"
+            src="/tenda1.png"
             alt="Tenda 2P"
             className="w-28 h-28 object-cover rounded-2xl shadow-lg border-2 border-white absolute -left-2 top-2 transform -rotate-6 group-hover:-rotate-3 transition-transform"
           />
           <img
-            src="public/tenda2.png"
+            src="/tenda2.png"
             alt="Tenda 4P"
             className="w-32 h-32 object-cover rounded-2xl shadow-xl border-2 border-white absolute right-0 bottom-0 transform rotate-6 group-hover:rotate-3 transition-transform"
           />

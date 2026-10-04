@@ -18,32 +18,32 @@ const CATEGORY_ITEMS: CategoryItem[] = [
   {
     id: 'tenda',
     label: 'Tenda',
-    imageUrl: 'public/tenda.eiger.png',
+    imageUrl: '/tenda.eiger.png',
   },
   {
     id: 'tenda',
     label: 'Tenda Keluarga',
-    imageUrl: 'public/tenda.keluarga.png',
+    imageUrl: '/tenda.keluarga.png',
   },
   {
     id: 'alat-masak',
     label: 'Alat Masak',
-    imageUrl: 'public/alat.masak.png',
+    imageUrl: '/alat.masak.png',
   },
   {
     id: 'sleeping-gear',
     label: 'Sleeping Bag',
-    imageUrl: 'public/sleping.png',
+    imageUrl: '/sleping.png',
   },
   {
     id: 'penerangan',
     label: 'Lampu Tenda',
-    imageUrl: 'public/lentera.png',
+    imageUrl: '/lentera.png',
   },
   {
     id: 'carrier-logistik',
     label: 'Carrier',
-    imageUrl: 'public/carrier.png',
+    imageUrl: '/carrier.png',
   },
   {
     id: 'all',

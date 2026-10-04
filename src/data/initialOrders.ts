@@ -19,7 +19,7 @@ export const INITIAL_ORDERS: RentalOrder[] = [
         productName: 'Tenda Dome Naturehike Cloud Peak 4P',
         category: 'Tenda Camping',
         brand: 'Naturehike',
-        imageUrl: 'public/tenda1.png',
+        imageUrl: '/tenda1.png',
         pricePerDay: 50000,
         quantity: 1,
         subtotal: 150000, 
@@ -29,7 +29,7 @@ export const INITIAL_ORDERS: RentalOrder[] = [
         productName: 'Nested Cookset DS-308 Anodized Aluminium (4-in-1)',
         category: 'Alat Masak',
         brand: 'Fire-Maple / DS',
-        imageUrl: 'public/nested.png',
+        imageUrl: '/nested.png',
         pricePerDay: 20000,
         quantity: 1,
         subtotal: 60000, // 3 hari x 20.000 x 1
@@ -39,7 +39,7 @@ export const INITIAL_ORDERS: RentalOrder[] = [
         productName: 'Lentera Tenda LED Vintage Retro Rechargeable',
         category: 'Penerangan',
         brand: 'Blackdog Retro',
-        imageUrl: 'public/lentera1.png',
+        imageUrl: '/lentera1.png',
         pricePerDay: 18000,
         quantity: 1,
         subtotal: 54000, // 3 hari x 18.000 x 1
@@ -70,7 +70,7 @@ export const INITIAL_ORDERS: RentalOrder[] = [
       email: 'siti.rahma@student.ac.id',
       idType: 'KTM',
       idNumber: '21/478901/SV/19821',
-      idPhotoSimulated: 'public/eiger1.png',
+      idPhotoSimulated: '/eiger1.png',
       notes: 'Camping ceria di Kaliurang Park.',
     },
     items: [
@@ -79,7 +79,7 @@ export const INITIAL_ORDERS: RentalOrder[] = [
         productName: 'Tenda Eiger Starcruiser 2 Ultralight Expedition',
         category: 'Tenda Camping',
         brand: 'Eiger Adventure',
-        imageUrl: 'public/eiger1.png',
+        imageUrl: '/eiger1.png',
         pricePerDay: 35000,
         quantity: 1,
         subtotal: 70000, // 2 hari x 35.000
@@ -89,7 +89,7 @@ export const INITIAL_ORDERS: RentalOrder[] = [
         productName: 'Sleeping Bag Polar Tebal Hangat',
         category: 'Bedding & Tidur',
         brand: 'Consina Trekker',
-        imageUrl: 'public/sleping.png',
+        imageUrl: '/sleping.png',
         pricePerDay: 18000,
         quantity: 2,
         subtotal: 72000, // 2 hari x 18.000 x 2

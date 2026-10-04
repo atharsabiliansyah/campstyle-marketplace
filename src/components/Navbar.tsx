@@ -55,7 +55,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             className="flex items-center gap-2.5 cursor-pointer shrink-0 select-none group"
           >
             <div className="w-17 h-17 rounded-xl overflow-hidden flex items-center justify-center bg-emerald-50">
-            <img src="public/Camp.png" alt="CampStyle Logo" className="w-full h-full object-contain" />
+            <img src="/Camp.png" alt="CampStyle Logo" className="w-full h-full object-contain" />
             </div>
             <div>
               <div className="flex items-baseline gap-1">

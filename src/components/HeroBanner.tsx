@@ -30,7 +30,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({
       <div 
         className="absolute inset-0 bg-cover bg-center opacity-30 mix-blend-overlay pointer-events-none"
         style={{
-          backgroundImage: `url('public/merbabu.png')`,
+          backgroundImage: `url('/merbabu.png')`,
         }}
       />
 
@@ -82,7 +82,7 @@ export const HeroBanner: React.FC<HeroBannerProps> = ({
           {/* Main Hero Tent Cutout Photo */}
           <div className="relative z-10 w-full max-w-md lg:max-w-xl mx-auto aspect-16/10 rounded-2xl overflow-hidden shadow-2xl border border-white/20">
             <img
-              src="public/tenda1.png"
+              src="/tenda1.png"
               alt="Naturehike Cloud Peak 4P Tent"
               className="w-full h-full object-cover"
             /></div>
