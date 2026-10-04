@@ -1,0 +1,6 @@
+{
+  "name": "CAMP STYLE - Marketplace Sewa Alat Camping & Outdoor",
+  "description": "Platform penyewaan perlengkapan camping dan outdoor dengan kalkulator durasi sewa, sistem jaminan KTP/KTM, dan tracking pesanan aktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
